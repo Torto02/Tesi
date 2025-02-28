@@ -1,0 +1,5050 @@
+{
+  "nodes": [
+    {
+      "coordinates": [53, 157],
+      "type": "border",
+      "angle": -2.5679259854216325,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [53, 159],
+      "type": "border",
+      "angle": -2.5751953311752422,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [58, 173],
+      "type": "border",
+      "angle": -2.616796881939686,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [63, 182],
+      "type": "border",
+      "angle": -2.6418672874749,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [65, 140],
+      "type": "border",
+      "angle": -2.4782836275896427,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [67, 135],
+      "type": "border",
+      "angle": -2.4561640755663876,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [70, 232],
+      "type": "border",
+      "angle": -2.862551154958155,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [75, 117],
+      "type": "border",
+      "angle": -2.376840523726563,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [75, 245],
+      "type": "border",
+      "angle": -2.92537318230256,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [75, 251],
+      "type": "border",
+      "angle": -2.9586888328054126,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [76, 246],
+      "type": "bifurcation",
+      "angle": -2.9297053546744123,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [77, 277],
+      "type": "border",
+      "angle": -3.1065193230565677,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [78, 236],
+      "type": "ending",
+      "angle": -2.8718597632013174,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [78, 260],
+      "type": "ending",
+      "angle": -3.0071150836131126,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [78, 263],
+      "type": "ending",
+      "angle": -3.024483909022929,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [79, 245],
+      "type": "bifurcation",
+      "angle": -2.920419016647999,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [79, 257],
+      "type": "bifurcation",
+      "angle": -2.988943325194528,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [79, 294],
+      "type": "border",
+      "angle": 3.0765955804301903,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [80, 108],
+      "type": "border",
+      "angle": -2.335789159505807,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [80, 236],
+      "type": "bifurcation",
+      "angle": -2.8688047497929365,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [80, 258],
+      "type": "bifurcation",
+      "angle": -2.993867188714495,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [81, 247],
+      "type": "bifurcation",
+      "angle": -2.9292728287498275,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [81, 258],
+      "type": "ending",
+      "angle": -2.992995531740594,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [82, 202],
+      "type": "ending",
+      "angle": -2.687629971793502,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [82, 326],
+      "type": "border",
+      "angle": 2.8881276312511566,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [82, 342],
+      "type": "border",
+      "angle": 2.8000960124779133,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [82, 356],
+      "type": "border",
+      "angle": 2.727287676841957,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [82, 371],
+      "type": "border",
+      "angle": 2.654140018403917,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [82, 387],
+      "type": "border",
+      "angle": 2.5819110875865148,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [83, 388],
+      "type": "bifurcation",
+      "angle": 2.5748634360662868,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [84, 202],
+      "type": "bifurcation",
+      "angle": -2.68283498116353,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [84, 249],
+      "type": "ending",
+      "angle": -2.9371714482126468,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [84, 263],
+      "type": "bifurcation",
+      "angle": -3.0202406530190298,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [85, 330],
+      "type": "bifurcation",
+      "angle": 2.8608638495650447,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [86, 231],
+      "type": "ending",
+      "angle": -2.8309940532187654,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [86, 378],
+      "type": "bifurcation",
+      "angle": 2.6112184775197,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [87, 117],
+      "type": "bifurcation",
+      "angle": -2.3409051617887067,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [87, 392],
+      "type": "bifurcation",
+      "angle": 2.5464575033788743,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [88, 119],
+      "type": "ending",
+      "angle": -2.3438494383481205,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [88, 238],
+      "type": "ending",
+      "angle": -2.8674252024701343,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [90, 238],
+      "type": "bifurcation",
+      "angle": -2.8641291147911767,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [90, 275],
+      "type": "ending",
+      "angle": -3.0910029448204086,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [91, 340],
+      "type": "bifurcation",
+      "angle": 2.793333158912682,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [91, 382],
+      "type": "ending",
+      "angle": 2.5789956439517394,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [92, 381],
+      "type": "bifurcation",
+      "angle": 2.5806918463374213,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [92, 385],
+      "type": "ending",
+      "angle": 2.5625183842220625,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [92, 402],
+      "type": "bifurcation",
+      "angle": 2.489936781630915,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [93, 203],
+      "type": "bifurcation",
+      "angle": -2.6651252341160867,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [93, 320],
+      "type": "ending",
+      "angle": 2.9072680774375623,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [93, 324],
+      "type": "ending",
+      "angle": 2.882999098031401,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [93, 344],
+      "type": "bifurcation",
+      "angle": 2.766660354756111,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [93, 383],
+      "type": "bifurcation",
+      "angle": 2.5686265107010873,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [93, 401],
+      "type": "bifurcation",
+      "angle": 2.4909048102124305,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [93, 403],
+      "type": "bifurcation",
+      "angle": 2.482786617472317,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [94, 205],
+      "type": "ending",
+      "angle": -2.6727637438047487,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [94, 267],
+      "type": "bifurcation",
+      "angle": -3.038067979079249,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [94, 270],
+      "type": "bifurcation",
+      "angle": -3.057376731088764,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [94, 324],
+      "type": "ending",
+      "angle": 2.8813944655391133,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [94, 340],
+      "type": "bifurcation",
+      "angle": 2.787098507497865,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [94, 348],
+      "type": "ending",
+      "angle": 2.742199633564087,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [94, 356],
+      "type": "bifurcation",
+      "angle": 2.6989393348904596,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [94, 402],
+      "type": "bifurcation",
+      "angle": 2.483704048407583,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [94, 415],
+      "type": "border",
+      "angle": 2.432966381462123,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [95, 413],
+      "type": "bifurcation",
+      "angle": 2.437288342665981,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [96, 322],
+      "type": "ending",
+      "angle": 2.8904316890120247,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [96, 352],
+      "type": "ending",
+      "angle": 2.7154609462428208,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [96, 405],
+      "type": "border",
+      "angle": 2.4652491486355825,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [97, 330],
+      "type": "ending",
+      "angle": 2.8398394331663015,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [98, 118],
+      "type": "bifurcation",
+      "angle": -2.3086113869153615,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [98, 259],
+      "type": "ending",
+      "angle": -2.9829373914033916,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [98, 279],
+      "type": "bifurcation",
+      "angle": -3.1149323052151954,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [98, 296],
+      "type": "ending",
+      "angle": 3.055142001902419,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [98, 330],
+      "type": "bifurcation",
+      "angle": 2.8379487720778456,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [99, 251],
+      "type": "bifurcation",
+      "angle": -2.930041025257061,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [99, 309],
+      "type": "ending",
+      "angle": 2.9688354273460615,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [99, 390],
+      "type": "bifurcation",
+      "angle": 2.5188083187902937,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [100, 256],
+      "type": "ending",
+      "angle": -2.9611446235463172,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [100, 280],
+      "type": "ending",
+      "angle": -3.1213251588775717,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [100, 338],
+      "type": "ending",
+      "angle": 2.7857871340065214,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [101, 334],
+      "type": "bifurcation",
+      "angle": 2.807647581744899,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [101, 417],
+      "type": "bifurcation",
+      "angle": 2.402424871940687,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [102, 83],
+      "type": "border",
+      "angle": -2.2013740840098315,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [102, 412],
+      "type": "border",
+      "angle": 2.417934106269648,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [103, 95],
+      "type": "bifurcation",
+      "angle": -2.2277759790385203,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [103, 295],
+      "type": "ending",
+      "angle": 3.0590221978950765,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [104, 97],
+      "type": "ending",
+      "angle": -2.229602362912373,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [104, 326],
+      "type": "ending",
+      "angle": 2.8514105556809293,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [106, 148],
+      "type": "bifurcation",
+      "angle": -2.381459870978829,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [106, 284],
+      "type": "ending",
+      "angle": 3.134550516481481,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [106, 345],
+      "type": "ending",
+      "angle": 2.7299213101578985,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [107, 252],
+      "type": "bifurcation",
+      "angle": -2.925177648301689,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [107, 280],
+      "type": "bifurcation",
+      "angle": -3.120319267565732,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [107, 281],
+      "type": "bifurcation",
+      "angle": -3.1274092075984843,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [107, 343],
+      "type": "bifurcation",
+      "angle": 2.7392715557293528,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [108, 148],
+      "type": "ending",
+      "angle": -2.3743743052653232,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [108, 280],
+      "type": "bifurcation",
+      "angle": -3.1201673611412586,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [108, 281],
+      "type": "bifurcation",
+      "angle": -3.1273079110023967,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [110, 89],
+      "type": "bifurcation",
+      "angle": -2.1890926902612393,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [110, 92],
+      "type": "ending",
+      "angle": -2.196472498530269,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [110, 413],
+      "type": "ending",
+      "angle": 2.3860363748594544,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [110, 418],
+      "type": "border",
+      "angle": 2.3671830588750784,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [110, 425],
+      "type": "bifurcation",
+      "angle": 2.3419097476049484,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [113, 87],
+      "type": "bifurcation",
+      "angle": -2.173949286217234,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [114, 89],
+      "type": "ending",
+      "angle": -2.1752680294382234,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [114, 156],
+      "type": "bifurcation",
+      "angle": -2.3830079857401802,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [114, 309],
+      "type": "ending",
+      "angle": 2.949944156903116,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [114, 318],
+      "type": "ending",
+      "angle": 2.8861064962711493,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [114, 415],
+      "type": "ending",
+      "angle": 2.363713145504649,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [115, 155],
+      "type": "bifurcation",
+      "angle": -2.3753492353185535,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [115, 307],
+      "type": "bifurcation",
+      "angle": 2.963062779761583,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [116, 159],
+      "type": "ending",
+      "angle": -2.387434323622613,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [116, 273],
+      "type": "ending",
+      "angle": -3.0659795103529635,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [116, 413],
+      "type": "bifurcation",
+      "angle": 2.363827929709838,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [118, 283],
+      "type": "bifurcation",
+      "angle": 3.141592653589793,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [120, 280],
+      "type": "ending",
+      "angle": -3.1181594437103257,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [121, 117],
+      "type": "bifurcation",
+      "angle": -2.2238665214957916,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [122, 119],
+      "type": "ending",
+      "angle": -2.225902330463252,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [122, 279],
+      "type": "ending",
+      "angle": -3.1098572800613353,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [126, 292],
+      "type": "ending",
+      "angle": 3.0679555482898277,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [126, 373],
+      "type": "ending",
+      "angle": 2.5060069467652424,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [127, 273],
+      "type": "ending",
+      "angle": -3.0591354161227273,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [127, 371],
+      "type": "bifurcation",
+      "angle": 2.5127963671743605,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [128, 269],
+      "type": "ending",
+      "angle": -3.025451026709803,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [128, 292],
+      "type": "bifurcation",
+      "angle": 3.066732805879026,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [128, 444],
+      "type": "border",
+      "angle": 2.2113093966722266,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [129, 267],
+      "type": "bifurcation",
+      "angle": -3.0079404062725996,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [131, 279],
+      "type": "bifurcation",
+      "angle": -3.107417929973598,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [134, 425],
+      "type": "ending",
+      "angle": 2.247252533202479,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [135, 423],
+      "type": "bifurcation",
+      "angle": 2.249877519542468,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [144, 284],
+      "type": "ending",
+      "angle": 3.1319775652900907,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [145, 74],
+      "type": "bifurcation",
+      "angle": -2.0286858420446796,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [147, 101],
+      "type": "bifurcation",
+      "angle": -2.0774281956634737,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [148, 103],
+      "type": "ending",
+      "angle": -2.0778948311872334,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [148, 459],
+      "type": "border",
+      "angle": 2.0874914655571737,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [150, 56],
+      "type": "border",
+      "angle": -1.9783434440670697,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [150, 202],
+      "type": "ending",
+      "angle": -2.4508825529872946,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [152, 463],
+      "type": "border",
+      "angle": 2.060753653048625,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [155, 105],
+      "type": "bifurcation",
+      "angle": -2.052259422665556,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [155, 150],
+      "type": "ending",
+      "angle": -2.1810174956691832,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [156, 107],
+      "type": "ending",
+      "angle": -2.0524600043497583,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [156, 263],
+      "type": "ending",
+      "angle": -2.9275319700259717,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [162, 389],
+      "type": "ending",
+      "angle": 2.252402149735302,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [162, 426],
+      "type": "bifurcation",
+      "angle": 2.1122435759328093,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [162, 462],
+      "type": "border",
+      "angle": 2.0186794760781006,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [163, 387],
+      "type": "bifurcation",
+      "angle": 2.2560020032807886,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [171, 459],
+      "type": "bifurcation",
+      "angle": 1.9832067683922838,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [174, 53],
+      "type": "border",
+      "angle": -1.882076059686842,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [174, 462],
+      "type": "border",
+      "angle": 1.9628074695417763,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [186, 386],
+      "type": "ending",
+      "angle": 2.1126423596213555,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [186, 462],
+      "type": "border",
+      "angle": 1.9042324928313064,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [191, 436],
+      "type": "ending",
+      "angle": 1.9274164627463286,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [192, 54],
+      "type": "bifurcation",
+      "angle": -1.810631002371443,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [192, 238],
+      "type": "ending",
+      "angle": -2.464677801747316,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [194, 57],
+      "type": "ending",
+      "angle": -1.8053369556606287,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [195, 52],
+      "type": "border",
+      "angle": -1.7963301533856915,
+      "ridge_count": 34
+    },
+    {
+      "coordinates": [197, 462],
+      "type": "border",
+      "angle": 1.8483579785539206,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [199, 82],
+      "type": "bifurcation",
+      "angle": -1.8099133923414654,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [200, 391],
+      "type": "ending",
+      "angle": 1.9890206563741257,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [201, 411],
+      "type": "bifurcation",
+      "angle": 1.9227001522098615,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [202, 400],
+      "type": "bifurcation",
+      "angle": 1.945394353161205,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [202, 402],
+      "type": "ending",
+      "angle": 1.939658397613597,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [203, 61],
+      "type": "bifurcation",
+      "angle": -1.7707892834010779,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [204, 280],
+      "type": "ending",
+      "angle": -3.0735161953317935,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [204, 311],
+      "type": "ending",
+      "angle": 2.5748634360662868,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [204, 423],
+      "type": "ending",
+      "angle": 1.8753072099970092,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [205, 309],
+      "type": "bifurcation",
+      "angle": 2.5977601972876707,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [205, 421],
+      "type": "bifurcation",
+      "angle": 1.8728557723280255,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [208, 53],
+      "type": "border",
+      "angle": -1.7429871413178357,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [208, 407],
+      "type": "ending",
+      "angle": 1.8828384483574299,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [209, 121],
+      "type": "bifurcation",
+      "angle": -1.807041587513334,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [209, 405],
+      "type": "bifurcation",
+      "angle": 1.8802018293473144,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [209, 462],
+      "type": "border",
+      "angle": 1.7853208322178507,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [212, 78],
+      "type": "ending",
+      "angle": -1.7446335691366048,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [212, 86],
+      "type": "ending",
+      "angle": -1.7515430822676172,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [213, 247],
+      "type": "bifurcation",
+      "angle": -2.342110914369485,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [214, 249],
+      "type": "ending",
+      "angle": -2.356194490192345,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [214, 406],
+      "type": "ending",
+      "angle": 1.8404847885358095,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [214, 409],
+      "type": "bifurcation",
+      "angle": 1.8343602103779346,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [215, 67],
+      "type": "bifurcation",
+      "angle": -1.7224018142331694,
+      "ridge_count": 34
+    },
+    {
+      "coordinates": [215, 163],
+      "type": "bifurcation",
+      "angle": -1.8391625377008034,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [215, 167],
+      "type": "bifurcation",
+      "angle": -1.8479570341284859,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [216, 65],
+      "type": "bifurcation",
+      "angle": -1.7165444535033338,
+      "ridge_count": 34
+    },
+    {
+      "coordinates": [216, 69],
+      "type": "ending",
+      "angle": -1.7192292360449917,
+      "ridge_count": 34
+    },
+    {
+      "coordinates": [216, 78],
+      "type": "ending",
+      "angle": -1.7256442591961265,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [216, 87],
+      "type": "ending",
+      "angle": -1.7326337580333195,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [216, 208],
+      "type": "bifurcation",
+      "angle": -1.9740778085137327,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [217, 58],
+      "type": "border",
+      "angle": -1.7077121025500444,
+      "ridge_count": 34
+    },
+    {
+      "coordinates": [217, 85],
+      "type": "bifurcation",
+      "angle": -1.7261011876429955,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [217, 165],
+      "type": "bifurcation",
+      "angle": -1.8277028536383322,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [218, 64],
+      "type": "ending",
+      "angle": -1.7069352876480375,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [218, 87],
+      "type": "ending",
+      "angle": -1.7226787841748477,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [219, 462],
+      "type": "border",
+      "angle": 1.731411943690735,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [220, 80],
+      "type": "ending",
+      "angle": -1.7078625011050843,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [220, 82],
+      "type": "bifurcation",
+      "angle": -1.7092090749419193,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [220, 161],
+      "type": "bifurcation",
+      "angle": -1.7963975706309205,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [220, 164],
+      "type": "bifurcation",
+      "angle": -1.8018869939907938,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [220, 403],
+      "type": "bifurcation",
+      "angle": 1.800028260071892,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [220, 407],
+      "type": "ending",
+      "angle": 1.7928782287003768,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [222, 80],
+      "type": "ending",
+      "angle": -1.6981816150965208,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [222, 176],
+      "type": "ending",
+      "angle": -1.8091671565816474,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [223, 214],
+      "type": "bifurcation",
+      "angle": -1.9184031865507984,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [224, 405],
+      "type": "ending",
+      "angle": 1.7650373229763006,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [224, 410],
+      "type": "ending",
+      "angle": 1.7575701313376153,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [225, 69],
+      "type": "bifurcation",
+      "angle": -1.6778619779834498,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [226, 146],
+      "type": "ending",
+      "angle": -1.7300209028964477,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [227, 80],
+      "type": "ending",
+      "angle": -1.6738779353175968,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [228, 68],
+      "type": "ending",
+      "angle": -1.6635526469830404,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [228, 76],
+      "type": "ending",
+      "angle": -1.6671157095130626,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [228, 79],
+      "type": "bifurcation",
+      "angle": -1.6685232341536154,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [228, 208],
+      "type": "ending",
+      "angle": -1.8313987185422376,
+      "ridge_count": 13
+    },
+    {
+      "coordinates": [228, 228],
+      "type": "bifurcation",
+      "angle": -1.9195673303788037,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [228, 238],
+      "type": "ending",
+      "angle": -1.9890206563741257,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [228, 242],
+      "type": "ending",
+      "angle": -2.0246403283164067,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [228, 245],
+      "type": "bifurcation",
+      "angle": -2.05527425583192,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [228, 278],
+      "type": "ending",
+      "angle": -2.896613990462929,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [228, 405],
+      "type": "ending",
+      "angle": 1.7332854360121,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [229, 228],
+      "type": "ending",
+      "angle": -1.903416018368809,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [229, 266],
+      "type": "ending",
+      "angle": -2.4116929954380617,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [229, 281],
+      "type": "bifurcation",
+      "angle": -3.036715714859559,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [229, 403],
+      "type": "bifurcation",
+      "angle": 1.7278261027666284,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [229, 462],
+      "type": "border",
+      "angle": 1.676545611916236,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [230, 169],
+      "type": "bifurcation",
+      "angle": -1.727398203776912,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [230, 322],
+      "type": "ending",
+      "angle": 2.0032041023654346,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [230, 325],
+      "type": "bifurcation",
+      "angle": 1.97568811307998,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [231, 61],
+      "type": "ending",
+      "angle": -1.647223746841648,
+      "ridge_count": 35
+    },
+    {
+      "coordinates": [231, 68],
+      "type": "ending",
+      "angle": -1.6497019274866396,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [231, 87],
+      "type": "bifurcation",
+      "angle": -1.6573144981472705,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [231, 170],
+      "type": "bifurcation",
+      "angle": -1.720118987488594,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [231, 354],
+      "type": "ending",
+      "angle": 1.8058085425155537,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [232, 72],
+      "type": "ending",
+      "angle": -1.6464808680039027,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [232, 89],
+      "type": "ending",
+      "angle": -1.6530843165695785,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [232, 228],
+      "type": "ending",
+      "angle": -1.853892112094392,
+      "ridge_count": 9
+    },
+    {
+      "coordinates": [232, 236],
+      "type": "bifurcation",
+      "angle": -1.898916221810202,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [232, 238],
+      "type": "ending",
+      "angle": -1.9124118174427038,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [232, 408],
+      "type": "bifurcation",
+      "angle": 1.6981040686657507,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [232, 442],
+      "type": "bifurcation",
+      "angle": 1.6710876442118139,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [232, 446],
+      "type": "ending",
+      "angle": 1.6686423810611892,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [233, 169],
+      "type": "bifurcation",
+      "angle": -1.7016237228689535,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [233, 206],
+      "type": "ending",
+      "angle": -1.763191928310819,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [233, 214],
+      "type": "ending",
+      "angle": -1.784857010358718,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [233, 215],
+      "type": "ending",
+      "angle": -1.7879076415298019,
+      "ridge_count": 13
+    },
+    {
+      "coordinates": [233, 275],
+      "type": "bifurcation",
+      "angle": -2.651635327336065,
+      "ridge_count": 3
+    },
+    {
+      "coordinates": [234, 71],
+      "type": "ending",
+      "angle": -1.6367383165761669,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [234, 72],
+      "type": "ending",
+      "angle": -1.6370499262526907,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [234, 174],
+      "type": "ending",
+      "angle": -1.6985373129162091,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [234, 211],
+      "type": "ending",
+      "angle": -1.7628443440356267,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [234, 218],
+      "type": "ending",
+      "angle": -1.7829400797993722,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [234, 277],
+      "type": "ending",
+      "angle": -2.7367008673047097,
+      "ridge_count": 2
+    },
+    {
+      "coordinates": [234, 358],
+      "type": "ending",
+      "angle": 1.7553391239855112,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [234, 408],
+      "type": "ending",
+      "angle": 1.6823315108687575,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [235, 268],
+      "type": "bifurcation",
+      "angle": -2.2848870254070546,
+      "ridge_count": 2
+    },
+    {
+      "coordinates": [235, 352],
+      "type": "ending",
+      "angle": 1.757019167206038,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [236, 66],
+      "type": "ending",
+      "angle": -1.6260395997847978,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [236, 263],
+      "type": "bifurcation",
+      "angle": -2.1112158270654806,
+      "ridge_count": 3
+    },
+    {
+      "coordinates": [236, 281],
+      "type": "ending",
+      "angle": -2.976443976175166,
+      "ridge_count": 2
+    },
+    {
+      "coordinates": [236, 283],
+      "type": "ending",
+      "angle": 3.141592653589793,
+      "ridge_count": 2
+    },
+    {
+      "coordinates": [236, 286],
+      "type": "ending",
+      "angle": 2.896613990462929,
+      "ridge_count": 2
+    },
+    {
+      "coordinates": [236, 296],
+      "type": "bifurcation",
+      "angle": 2.316215803069055,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [236, 395],
+      "type": "ending",
+      "angle": 1.6775319994440323,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [236, 400],
+      "type": "bifurcation",
+      "angle": 1.6730030449021502,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [236, 417],
+      "type": "ending",
+      "angle": 1.6601103197881188,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [237, 340],
+      "type": "bifurcation",
+      "angle": 1.7614352327089922,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [237, 393],
+      "type": "bifurcation",
+      "angle": 1.6704649792860586,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [237, 400],
+      "type": "ending",
+      "angle": 1.664537868339145,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [238, 53],
+      "type": "border",
+      "angle": -1.6142472221864275,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [238, 214],
+      "type": "ending",
+      "angle": -1.7147217761831128,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [238, 216],
+      "type": "ending",
+      "angle": -1.718956347526728,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [238, 263],
+      "type": "bifurcation",
+      "angle": -2.0344439357957027,
+      "ridge_count": 3
+    },
+    {
+      "coordinates": [238, 420],
+      "type": "ending",
+      "angle": 1.6436598069218964,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [238, 424],
+      "type": "bifurcation",
+      "angle": 1.6415997593648053,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [238, 427],
+      "type": "ending",
+      "angle": 1.6401294604831052,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [239, 216],
+      "type": "ending",
+      "angle": -1.704325375886768,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [239, 269],
+      "type": "bifurcation",
+      "angle": -2.1421338066285234,
+      "ridge_count": 2
+    },
+    {
+      "coordinates": [239, 339],
+      "type": "ending",
+      "angle": 1.7301479676988134,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [239, 425],
+      "type": "bifurcation",
+      "angle": 1.63409194498352,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [241, 233],
+      "type": "bifurcation",
+      "angle": -1.709892268276968,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [241, 355],
+      "type": "bifurcation",
+      "angle": 1.6677139545892596,
+      "ridge_count": 9
+    },
+    {
+      "coordinates": [242, 234],
+      "type": "bifurcation",
+      "angle": -1.692638763814814,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [242, 235],
+      "type": "ending",
+      "angle": -1.695151321341658,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [242, 325],
+      "type": "bifurcation",
+      "angle": 1.7126933813990606,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [242, 335],
+      "type": "ending",
+      "angle": 1.6856729322117958,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [242, 340],
+      "type": "ending",
+      "angle": 1.6756732655251305,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [242, 404],
+      "type": "ending",
+      "angle": 1.6203425213860219,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [243, 66],
+      "type": "bifurcation",
+      "angle": -1.593833725101353,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [243, 101],
+      "type": "bifurcation",
+      "angle": -1.5982619458592684,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [243, 353],
+      "type": "bifurcation",
+      "angle": 1.642103791580187,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [244, 90],
+      "type": "bifurcation",
+      "angle": -1.5915187486873805,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [244, 248],
+      "type": "bifurcation",
+      "angle": -1.6845883339386047,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [244, 322],
+      "type": "ending",
+      "angle": 1.6730030449021502,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [244, 465],
+      "type": "border",
+      "angle": 1.5927708110915593,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [245, 59],
+      "type": "bifurcation",
+      "angle": -1.5841883832711419,
+      "ridge_count": 34
+    },
+    {
+      "coordinates": [245, 259],
+      "type": "bifurcation",
+      "angle": -1.695151321341658,
+      "ridge_count": 3
+    },
+    {
+      "coordinates": [245, 400],
+      "type": "bifurcation",
+      "angle": 1.596431735316574,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [245, 415],
+      "type": "bifurcation",
+      "angle": 1.5935196876365376,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [245, 417],
+      "type": "ending",
+      "angle": 1.5931806471341867,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [246, 61],
+      "type": "ending",
+      "angle": -1.5798050920853135,
+      "ridge_count": 34
+    },
+    {
+      "coordinates": [246, 68],
+      "type": "bifurcation",
+      "angle": -1.5800983840700324,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [246, 223],
+      "type": "ending",
+      "angle": -1.6041173226731438,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [246, 295],
+      "type": "ending",
+      "angle": 1.7359450042095235,
+      "ridge_count": 2
+    },
+    {
+      "coordinates": [246, 320],
+      "type": "ending",
+      "angle": 1.624797827170865,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [247, 77],
+      "type": "bifurcation",
+      "angle": -1.575650657596572,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [247, 245],
+      "type": "bifurcation",
+      "angle": -1.5971060440478189,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [247, 293],
+      "type": "bifurcation",
+      "angle": 1.6704649792860586,
+      "ridge_count": 1
+    },
+    {
+      "coordinates": [247, 334],
+      "type": "ending",
+      "angle": 1.5904016576521014,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [247, 404],
+      "type": "ending",
+      "angle": 1.5790606014545479,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [248, 71],
+      "type": "bifurcation",
+      "angle": -1.5707963267948966,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [248, 256],
+      "type": "ending",
+      "angle": -1.5707963267948966,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [248, 283],
+      "type": "ending",
+      "angle": 0.0,
+      "ridge_count": 0
+    },
+    {
+      "coordinates": [248, 422],
+      "type": "ending",
+      "angle": 1.5707963267948966,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [249, 78],
+      "type": "bifurcation",
+      "angle": -1.5659183167054986,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [249, 169],
+      "type": "bifurcation",
+      "angle": -1.5620246219504539,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [250, 53],
+      "type": "border",
+      "angle": -1.562100893783118,
+      "ridge_count": 36
+    },
+    {
+      "coordinates": [250, 80],
+      "type": "ending",
+      "angle": -1.5609444287998955,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [250, 171],
+      "type": "ending",
+      "angle": -1.5529410816553442,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [250, 244],
+      "type": "ending",
+      "angle": -1.519559159391478,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [250, 317],
+      "type": "ending",
+      "angle": 1.512040504079174,
+      "ridge_count": 3
+    },
+    {
+      "coordinates": [250, 324],
+      "type": "ending",
+      "angle": 1.522054475484965,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [250, 436],
+      "type": "bifurcation",
+      "angle": 1.5577251758447148,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [250, 440],
+      "type": "ending",
+      "angle": 1.5580581623048322,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [251, 221],
+      "type": "ending",
+      "angle": -1.5224469401429936,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [251, 435],
+      "type": "bifurcation",
+      "angle": 1.5510620468732874,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [252, 246],
+      "type": "ending",
+      "angle": -1.463106455962076,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [252, 264],
+      "type": "ending",
+      "angle": -1.3633001003596938,
+      "ridge_count": 3
+    },
+    {
+      "coordinates": [252, 390],
+      "type": "ending",
+      "angle": 1.5334305489921134,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [252, 413],
+      "type": "ending",
+      "angle": 1.5400368007244274,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [253, 98],
+      "type": "bifurcation",
+      "angle": -1.5437758776076318,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [254, 246],
+      "type": "ending",
+      "angle": -1.4100335861690618,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [254, 247],
+      "type": "ending",
+      "angle": -1.4056476493802699,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [254, 317],
+      "type": "ending",
+      "angle": 1.396124127786657,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [254, 408],
+      "type": "ending",
+      "angle": 1.5228331399178199,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [255, 83],
+      "type": "bifurcation",
+      "angle": -1.535810607966371,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [255, 263],
+      "type": "bifurcation",
+      "angle": -1.2341215074081695,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [255, 278],
+      "type": "bifurcation",
+      "angle": -0.6202494859828215,
+      "ridge_count": 2
+    },
+    {
+      "coordinates": [255, 303],
+      "type": "bifurcation",
+      "angle": 1.2341215074081695,
+      "ridge_count": 3
+    },
+    {
+      "coordinates": [255, 307],
+      "type": "bifurcation",
+      "angle": 1.2870022175865687,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [255, 410],
+      "type": "ending",
+      "angle": 1.5157339314212264,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [255, 465],
+      "type": "border",
+      "angle": 1.5323537367737086,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [256, 85],
+      "type": "ending",
+      "angle": -1.5304142512303966,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [256, 219],
+      "type": "bifurcation",
+      "angle": -1.446441332248135,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [257, 265],
+      "type": "bifurcation",
+      "angle": -1.1071487177940904,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [258, 304],
+      "type": "ending",
+      "angle": 1.1263771168937977,
+      "ridge_count": 2
+    },
+    {
+      "coordinates": [258, 325],
+      "type": "ending",
+      "angle": 1.3370531459259951,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [258, 412],
+      "type": "ending",
+      "angle": 1.4934316673669235,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [259, 323],
+      "type": "bifurcation",
+      "angle": 1.3024301158889897,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [261, 189],
+      "type": "bifurcation",
+      "angle": -1.4333701812979533,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [261, 192],
+      "type": "bifurcation",
+      "angle": -1.4288992721907328,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [261, 270],
+      "type": "bifurcation",
+      "angle": -0.7853981633974483,
+      "ridge_count": 3
+    },
+    {
+      "coordinates": [261, 318],
+      "type": "ending",
+      "angle": 1.215160442494137,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [261, 461],
+      "type": "border",
+      "angle": 1.4978920569795526,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [262, 221],
+      "type": "ending",
+      "angle": -1.3487144248894165,
+      "ridge_count": 9
+    },
+    {
+      "coordinates": [262, 293],
+      "type": "ending",
+      "angle": 0.6202494859828215,
+      "ridge_count": 3
+    },
+    {
+      "coordinates": [263, 246],
+      "type": "ending",
+      "angle": -1.1856388204314225,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [263, 291],
+      "type": "bifurcation",
+      "angle": 0.4899573262537283,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [263, 426],
+      "type": "ending",
+      "angle": 1.4662834215396632,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [264, 324],
+      "type": "ending",
+      "angle": 1.198728567936776,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [265, 453],
+      "type": "ending",
+      "angle": 1.4711276743037347,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [266, 53],
+      "type": "border",
+      "angle": -1.4926946490749111,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [266, 416],
+      "type": "ending",
+      "angle": 1.4362753238787023,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [266, 451],
+      "type": "bifurcation",
+      "angle": 1.464060654145761,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [267, 85],
+      "type": "bifurcation",
+      "angle": -1.4751296539390748,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [268, 87],
+      "type": "ending",
+      "angle": -1.4691074750318196,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [268, 312],
+      "type": "bifurcation",
+      "angle": 0.9670469933974603,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [268, 322],
+      "type": "ending",
+      "angle": 1.0969449903001363,
+      "ridge_count": 2
+    },
+    {
+      "coordinates": [270, 189],
+      "type": "bifurcation",
+      "angle": -1.3408918986629919,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [270, 452],
+      "type": "ending",
+      "angle": 1.4413467620595937,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [272, 194],
+      "type": "ending",
+      "angle": -1.307398694249396,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [273, 418],
+      "type": "ending",
+      "angle": 1.3876855095324125,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [274, 212],
+      "type": "ending",
+      "angle": -1.2197654400524764,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [274, 412],
+      "type": "bifurcation",
+      "angle": 1.3719104550826362,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [274, 414],
+      "type": "ending",
+      "angle": 1.374869194670772,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [275, 198],
+      "type": "ending",
+      "angle": -1.2632292183895633,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [275, 200],
+      "type": "ending",
+      "angle": -1.2562920223781515,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [275, 332],
+      "type": "ending",
+      "angle": 1.0671700306708005,
+      "ridge_count": 3
+    },
+    {
+      "coordinates": [276, 198],
+      "type": "bifurcation",
+      "angle": -1.2525793265961158,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [276, 200],
+      "type": "bifurcation",
+      "angle": -1.2454356797782544,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [276, 288],
+      "type": "ending",
+      "angle": 0.1767088560700366,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [276, 317],
+      "type": "bifurcation",
+      "angle": 0.8818719385800352,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [276, 322],
+      "type": "ending",
+      "angle": 0.9481255380378293,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [276, 348],
+      "type": "bifurcation",
+      "angle": 1.1640492550689256,
+      "ridge_count": 4
+    },
+    {
+      "coordinates": [276, 421],
+      "type": "bifurcation",
+      "angle": 1.370615258829008,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [277, 202],
+      "type": "bifurcation",
+      "angle": -1.2269905257047395,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [278, 79],
+      "type": "ending",
+      "angle": -1.4247840690836213,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [278, 220],
+      "type": "ending",
+      "angle": -1.1263771168937977,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [278, 319],
+      "type": "ending",
+      "angle": 0.8760580505981934,
+      "ridge_count": 9
+    },
+    {
+      "coordinates": [278, 328],
+      "type": "ending",
+      "angle": 0.982793723247329,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [278, 381],
+      "type": "bifurcation",
+      "angle": 1.2737321144538538,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [279, 397],
+      "type": "bifurcation",
+      "angle": 1.305286668004985,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [279, 464],
+      "type": "border",
+      "angle": 1.4011714035384368,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [280, 203],
+      "type": "ending",
+      "angle": -1.1902899496825317,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [280, 211],
+      "type": "ending",
+      "angle": -1.1525719972156676,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [280, 220],
+      "type": "bifurcation",
+      "angle": -1.1008196883778887,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [280, 242],
+      "type": "ending",
+      "angle": -0.908066818901905,
+      "ridge_count": 9
+    },
+    {
+      "coordinates": [280, 336],
+      "type": "ending",
+      "angle": 1.0276067505070687,
+      "ridge_count": 2
+    },
+    {
+      "coordinates": [280, 465],
+      "type": "border",
+      "angle": 1.396751086952158,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [281, 219],
+      "type": "bifurcation",
+      "angle": -1.0947269964721353,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [281, 423],
+      "type": "bifurcation",
+      "angle": 1.3393075704480542,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [282, 220],
+      "type": "bifurcation",
+      "angle": -1.0759088843638223,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [282, 296],
+      "type": "bifurcation",
+      "angle": 0.36520144978817304,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [283, 260],
+      "type": "bifurcation",
+      "angle": -0.5813801838048998,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [283, 325],
+      "type": "bifurcation",
+      "angle": 0.8760580505981934,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [284, 217],
+      "type": "bifurcation",
+      "angle": -1.0714496051147666,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [284, 233],
+      "type": "bifurcation",
+      "angle": -0.9467732738181398,
+      "ridge_count": 9
+    },
+    {
+      "coordinates": [284, 240],
+      "type": "ending",
+      "angle": -0.8737749495422971,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [284, 365],
+      "type": "bifurcation",
+      "angle": 1.1571071135160333,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [285, 218],
+      "type": "ending",
+      "angle": -1.053308585820788,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [286, 143],
+      "type": "ending",
+      "angle": -1.3057534668974422,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [286, 290],
+      "type": "bifurcation",
+      "angle": 0.18216831047276347,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [286, 305],
+      "type": "bifurcation",
+      "angle": 0.5247957716501074,
+      "ridge_count": 9
+    },
+    {
+      "coordinates": [286, 325],
+      "type": "ending",
+      "angle": 0.8353565591193911,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [287, 141],
+      "type": "bifurcation",
+      "angle": -1.302757501701487,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [287, 234],
+      "type": "bifurcation",
+      "angle": -0.8985491449879328,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [287, 238],
+      "type": "bifurcation",
+      "angle": -0.8567056281827387,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [287, 240],
+      "type": "bifurcation",
+      "angle": -0.8341400147073799,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [287, 250],
+      "type": "bifurcation",
+      "angle": -0.702256931509007,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [287, 266],
+      "type": "bifurcation",
+      "angle": -0.4110645473898644,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [287, 447],
+      "type": "bifurcation",
+      "angle": 1.3373279466885202,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [288, 98],
+      "type": "ending",
+      "angle": -1.3578579772154995,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [288, 223],
+      "type": "bifurcation",
+      "angle": -0.982793723247329,
+      "ridge_count": 13
+    },
+    {
+      "coordinates": [288, 239],
+      "type": "bifurcation",
+      "angle": -0.8329812666744317,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [288, 284],
+      "type": "ending",
+      "angle": 0.02499479361892016,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [288, 465],
+      "type": "border",
+      "angle": 1.354455665421606,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [289, 42],
+      "type": "border",
+      "angle": -1.4022851872710564,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [289, 206],
+      "type": "ending",
+      "angle": -1.081513309272413,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [289, 281],
+      "type": "bifurcation",
+      "angle": -0.04874185130993159,
+      "ridge_count": 5
+    },
+    {
+      "coordinates": [289, 293],
+      "type": "ending",
+      "angle": 0.23923159996366056,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [290, 44],
+      "type": "bifurcation",
+      "angle": -1.3968402890392502,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [290, 230],
+      "type": "ending",
+      "angle": -0.9006742893684003,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [290, 232],
+      "type": "bifurcation",
+      "angle": -0.8818719385800352,
+      "ridge_count": 13
+    },
+    {
+      "coordinates": [290, 255],
+      "type": "ending",
+      "angle": -0.5880026035475675,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [290, 272],
+      "type": "ending",
+      "angle": -0.25615138256560344,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [290, 283],
+      "type": "ending",
+      "angle": 0.0,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [291, 149],
+      "type": "bifurcation",
+      "angle": -1.2602812546562172,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [291, 192],
+      "type": "bifurcation",
+      "angle": -1.1293672831208095,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [291, 201],
+      "type": "bifurcation",
+      "angle": -1.0878274509383352,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [291, 225],
+      "type": "bifurcation",
+      "angle": -0.9328353275253863,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [291, 233],
+      "type": "bifurcation",
+      "angle": -0.8605253193082104,
+      "ridge_count": 13
+    },
+    {
+      "coordinates": [291, 237],
+      "type": "ending",
+      "angle": -0.8190932707434646,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [291, 334],
+      "type": "ending",
+      "angle": 0.8702999568471702,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [291, 335],
+      "type": "bifurcation",
+      "angle": 0.879853098792495,
+      "ridge_count": 13
+    },
+    {
+      "coordinates": [292, 89],
+      "type": "bifurcation",
+      "angle": -1.3477653584233384,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [292, 92],
+      "type": "ending",
+      "angle": -1.3443798879001903,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [292, 150],
+      "type": "bifurcation",
+      "angle": -1.2513031049072447,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [292, 235],
+      "type": "ending",
+      "angle": -0.8288490587889792,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [292, 336],
+      "type": "bifurcation",
+      "angle": 0.8779167845170952,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [292, 338],
+      "type": "ending",
+      "angle": 0.8960553845713439,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [294, 100],
+      "type": "ending",
+      "angle": -1.324532317332178,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [294, 264],
+      "type": "ending",
+      "angle": -0.39169993943742404,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [294, 280],
+      "type": "ending",
+      "angle": -0.06512516333438588,
+      "ridge_count": 6
+    },
+    {
+      "coordinates": [294, 294],
+      "type": "ending",
+      "angle": 0.2347226124851971,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [294, 448],
+      "type": "ending",
+      "angle": 1.2989119767311341,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [294, 451],
+      "type": "bifurcation",
+      "angle": 1.3035372286389857,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [295, 418],
+      "type": "ending",
+      "angle": 1.2357722157140798,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [296, 200],
+      "type": "bifurcation",
+      "angle": -1.0464756144914746,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [296, 252],
+      "type": "ending",
+      "angle": -0.573440526154829,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [297, 162],
+      "type": "bifurcation",
+      "angle": -1.1860225502667705,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [297, 264],
+      "type": "bifurcation",
+      "angle": -0.3699060674565577,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [298, 197],
+      "type": "bifurcation",
+      "angle": -1.044169055361146,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [298, 252],
+      "type": "bifurcation",
+      "angle": -0.5549957273385867,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [298, 265],
+      "type": "bifurcation",
+      "angle": -0.34555558058171215,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [298, 465],
+      "type": "border",
+      "angle": 1.3026855437250695,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [300, 50],
+      "type": "ending",
+      "angle": -1.351218703297358,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [300, 208],
+      "type": "ending",
+      "angle": -0.9645586626078637,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [300, 337],
+      "type": "ending",
+      "angle": 0.8042638494191191,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [300, 422],
+      "type": "ending",
+      "angle": 1.2128142998939462,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [301, 158],
+      "type": "bifurcation",
+      "angle": -1.1697729931662402,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [301, 162],
+      "type": "bifurcation",
+      "angle": -1.157952421852312,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [301, 239],
+      "type": "bifurcation",
+      "angle": -0.6928795422778015,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [302, 37],
+      "type": "border",
+      "angle": -1.3547113544981102,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [302, 334],
+      "type": "bifurcation",
+      "angle": 0.7568345055586884,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [302, 337],
+      "type": "ending",
+      "angle": 0.7853981633974483,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [303, 153],
+      "type": "ending",
+      "angle": -1.1705556697609225,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [303, 208],
+      "type": "bifurcation",
+      "angle": -0.9380474917927135,
+      "ridge_count": 13
+    },
+    {
+      "coordinates": [303, 233],
+      "type": "bifurcation",
+      "angle": -0.7378150601204649,
+      "ridge_count": 9
+    },
+    {
+      "coordinates": [303, 441],
+      "type": "bifurcation",
+      "angle": 1.2358140304746659,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [303, 447],
+      "type": "bifurcation",
+      "angle": 1.2472176208700025,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [304, 57],
+      "type": "ending",
+      "angle": -1.3279009939872919,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [304, 58],
+      "type": "bifurcation",
+      "angle": -1.326863688391126,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [304, 150],
+      "type": "ending",
+      "angle": -1.1722738811284763,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [304, 202],
+      "type": "ending",
+      "angle": -0.9658939238594837,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [304, 210],
+      "type": "bifurcation",
+      "angle": -0.9164260808243421,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [304, 214],
+      "type": "bifurcation",
+      "angle": -0.88902562339432,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [304, 222],
+      "type": "bifurcation",
+      "angle": -0.8281072191624524,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [304, 278],
+      "type": "ending",
+      "angle": -0.08904958263449779,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [305, 58],
+      "type": "ending",
+      "angle": -1.32268287769822,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [305, 157],
+      "type": "bifurcation",
+      "angle": -1.1459641638755542,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [305, 251],
+      "type": "bifurcation",
+      "angle": -0.5115561271703055,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [306, 206],
+      "type": "ending",
+      "angle": -0.9252205321816416,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [306, 209],
+      "type": "bifurcation",
+      "angle": -0.906021831977551,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [306, 254],
+      "type": "ending",
+      "angle": -0.4636476090008061,
+      "ridge_count": 9
+    },
+    {
+      "coordinates": [306, 257],
+      "type": "ending",
+      "angle": -0.4214192068878042,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [306, 258],
+      "type": "ending",
+      "angle": -0.4069707853687713,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [306, 262],
+      "type": "ending",
+      "angle": -0.3473859629183197,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [306, 276],
+      "type": "ending",
+      "angle": -0.12010873556691289,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [306, 418],
+      "type": "ending",
+      "angle": 1.1650108856985588,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [306, 424],
+      "type": "ending",
+      "angle": 1.180546043695702,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [307, 183],
+      "type": "bifurcation",
+      "angle": -1.0377622166174065,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [307, 187],
+      "type": "bifurcation",
+      "angle": -1.019722739549679,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [307, 434],
+      "type": "bifurcation",
+      "angle": 1.1983081054527942,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [307, 465],
+      "type": "border",
+      "angle": 1.2573100470579055,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [308, 156],
+      "type": "ending",
+      "angle": -1.1294380194862572,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [308, 158],
+      "type": "ending",
+      "angle": -1.1232763516377267,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [308, 214],
+      "type": "ending",
+      "angle": -0.8550527371260165,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [308, 240],
+      "type": "ending",
+      "angle": -0.6218242878305899,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [309, 164],
+      "type": "bifurcation",
+      "angle": -1.0971156096467147,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [309, 168],
+      "type": "bifurcation",
+      "angle": -1.0830983731087491,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [310, 216],
+      "type": "ending",
+      "angle": -0.8241384610609277,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [310, 240],
+      "type": "bifurcation",
+      "angle": -0.6063828863759626,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [310, 282],
+      "type": "bifurcation",
+      "angle": -0.016127633843636236,
+      "ridge_count": 9
+    },
+    {
+      "coordinates": [310, 420],
+      "type": "ending",
+      "angle": 1.1458199053653026,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [310, 422],
+      "type": "ending",
+      "angle": 1.1512377751921623,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [311, 40],
+      "type": "ending",
+      "angle": -1.317122230656254,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [311, 176],
+      "type": "ending",
+      "angle": -1.0386639296282012,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [311, 177],
+      "type": "bifurcation",
+      "angle": -1.0345492640635958,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [311, 409],
+      "type": "ending",
+      "angle": 1.1071487177940904,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [312, 94],
+      "type": "ending",
+      "angle": -1.2442914500585,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [312, 98],
+      "type": "ending",
+      "angle": -1.2377376922239793,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [312, 156],
+      "type": "ending",
+      "angle": -1.1040040740716488,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [312, 230],
+      "type": "ending",
+      "angle": -0.6916566218531999,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [312, 424],
+      "type": "ending",
+      "angle": 1.1447033071606871,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [312, 426],
+      "type": "ending",
+      "angle": 1.149979650462818,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [313, 163],
+      "type": "bifurcation",
+      "angle": -1.0743735733900148,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [313, 170],
+      "type": "bifurcation",
+      "angle": -1.0487957959429488,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [313, 181],
+      "type": "bifurcation",
+      "angle": -1.003432993947379,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [313, 216],
+      "type": "bifurcation",
+      "angle": -0.8005485192722182,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [313, 409],
+      "type": "bifurcation",
+      "angle": 1.094531090901128,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [313, 410],
+      "type": "ending",
+      "angle": 1.0977446063139467,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [314, 165],
+      "type": "ending",
+      "angle": -1.0608242670934838,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [314, 172],
+      "type": "ending",
+      "angle": -1.0343608691901653,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [314, 250],
+      "type": "bifurcation",
+      "angle": -0.4636476090008061,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [314, 251],
+      "type": "ending",
+      "angle": -0.4514530915525543,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [315, 35],
+      "type": "border",
+      "angle": -1.3069341672557817,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [315, 230],
+      "type": "bifurcation",
+      "angle": -0.6692565365174581,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [315, 275],
+      "type": "ending",
+      "angle": -0.1188403445677652,
+      "ridge_count": 9
+    },
+    {
+      "coordinates": [316, 170],
+      "type": "bifurcation",
+      "angle": -1.0290764371402694,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [316, 172],
+      "type": "ending",
+      "angle": -1.0211544265998498,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [316, 257],
+      "type": "ending",
+      "angle": -0.36520144978817304,
+      "ridge_count": 9
+    },
+    {
+      "coordinates": [316, 293],
+      "type": "ending",
+      "angle": 0.1460122577112754,
+      "ridge_count": 8
+    },
+    {
+      "coordinates": [316, 416],
+      "type": "ending",
+      "angle": 1.0981669234020677,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [317, 128],
+      "type": "ending",
+      "angle": -1.151973553241627,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [317, 218],
+      "type": "bifurcation",
+      "angle": -0.7555562787303389,
+      "ridge_count": 11
+    },
+    {
+      "coordinates": [317, 291],
+      "type": "bifurcation",
+      "angle": 0.11542666036692471,
+      "ridge_count": 7
+    },
+    {
+      "coordinates": [317, 371],
+      "type": "ending",
+      "angle": 0.9058316094194497,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [317, 412],
+      "type": "ending",
+      "angle": 1.079632728508636,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [317, 413],
+      "type": "ending",
+      "angle": 1.0828373991598745,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [317, 465],
+      "type": "border",
+      "angle": 1.2084177347168814,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [318, 79],
+      "type": "ending",
+      "angle": -1.2402483454044746,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [318, 200],
+      "type": "ending",
+      "angle": -0.870161892510066,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [319, 207],
+      "type": "bifurcation",
+      "angle": -0.8193986608698693,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [319, 256],
+      "type": "ending",
+      "angle": -0.3633931334952306,
+      "ridge_count": 10
+    },
+    {
+      "coordinates": [320, 40],
+      "type": "ending",
+      "angle": -1.2827408797442708,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [320, 43],
+      "type": "ending",
+      "angle": -1.2793395323170296,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [320, 176],
+      "type": "ending",
+      "angle": -0.9784926745004375,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [320, 193],
+      "type": "bifurcation",
+      "angle": -0.8960553845713439,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [320, 414],
+      "type": "ending",
+      "angle": 1.068246199094283,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [321, 241],
+      "type": "bifurcation",
+      "angle": -0.5220916138282875,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [322, 76],
+      "type": "ending",
+      "angle": -1.2274663888317243,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [322, 78],
+      "type": "ending",
+      "angle": -1.2243773376900378,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [322, 114],
+      "type": "ending",
+      "angle": -1.158075518975321,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [322, 199],
+      "type": "ending",
+      "angle": -0.8486049952949085,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [322, 220],
+      "type": "bifurcation",
+      "angle": -0.705278070353634,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [322, 414],
+      "type": "ending",
+      "angle": 1.0565965860576056,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [323, 57],
+      "type": "bifurcation",
+      "angle": -1.2503737928658778,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [323, 177],
+      "type": "bifurcation",
+      "angle": -0.955023086653908,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [323, 197],
+      "type": "bifurcation",
+      "angle": -0.8536151302958046,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [323, 225],
+      "type": "bifurcation",
+      "angle": -0.6582679678347244,
+      "ridge_count": 13
+    },
+    {
+      "coordinates": [323, 256],
+      "type": "ending",
+      "angle": -0.34555558058171215,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [323, 418],
+      "type": "ending",
+      "angle": 1.0636978224025597,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [324, 48],
+      "type": "ending",
+      "angle": -1.2580084005229102,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [324, 59],
+      "type": "ending",
+      "angle": -1.2436982297891037,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [324, 424],
+      "type": "ending",
+      "angle": 1.076432124919542,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [324, 451],
+      "type": "ending",
+      "angle": 1.1459641638755542,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [325, 51],
+      "type": "bifurcation",
+      "angle": -1.2503394327373845,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [325, 77],
+      "type": "bifurcation",
+      "angle": -1.2130900520776549,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [325, 449],
+      "type": "bifurcation",
+      "angle": 1.1364801565945692,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [326, 35],
+      "type": "border",
+      "angle": -1.26607575603033,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [326, 40],
+      "type": "ending",
+      "angle": -1.2601977264238688,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [326, 178],
+      "type": "ending",
+      "angle": -0.9318823417910095,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [326, 428],
+      "type": "ending",
+      "angle": 1.0772663112046432,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [326, 465],
+      "type": "border",
+      "angle": 1.1659045405098132,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [327, 176],
+      "type": "ending",
+      "angle": -0.9348138733139161,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [327, 184],
+      "type": "bifurcation",
+      "angle": -0.8972884295691245,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [328, 240],
+      "type": "ending",
+      "angle": -0.4931956569026999,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [328, 439],
+      "type": "bifurcation",
+      "angle": 1.0969449903001363,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [328, 442],
+      "type": "ending",
+      "angle": 1.1046361602672463,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [329, 83],
+      "type": "bifurcation",
+      "angle": -1.1859870502490355,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [329, 231],
+      "type": "bifurcation",
+      "angle": -0.5707132601893593,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [330, 176],
+      "type": "ending",
+      "angle": -0.9169098347171071,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [330, 244],
+      "type": "bifurcation",
+      "angle": -0.44394572508799723,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [330, 420],
+      "type": "ending",
+      "angle": 1.0314509399673057,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [331, 86],
+      "type": "bifurcation",
+      "angle": -1.1720469694010343,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [332, 238],
+      "type": "bifurcation",
+      "angle": -0.49180917598869855,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [332, 239],
+      "type": "ending",
+      "angle": -0.4825132950224769,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [332, 428],
+      "type": "ending",
+      "angle": 1.0457287421588224,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [334, 35],
+      "type": "border",
+      "angle": -1.2369981625440685,
+      "ridge_count": 37
+    },
+    {
+      "coordinates": [334, 80],
+      "type": "ending",
+      "angle": -1.1700736646568621,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [334, 219],
+      "type": "ending",
+      "angle": -0.6397697828266257,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [334, 448],
+      "type": "ending",
+      "angle": 1.090323382602368,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [335, 217],
+      "type": "bifurcation",
+      "angle": -0.6489955589965009,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [335, 236],
+      "type": "bifurcation",
+      "angle": -0.4953112310764202,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [335, 338],
+      "type": "bifurcation",
+      "angle": 0.5637486004187707,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [335, 339],
+      "type": "bifurcation",
+      "angle": 0.5719181998612621,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [335, 418],
+      "type": "ending",
+      "angle": 0.9983365129768454,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [336, 45],
+      "type": "ending",
+      "angle": -1.2166381699386692,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [336, 137],
+      "type": "bifurcation",
+      "angle": -1.0283647568049468,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [336, 147],
+      "type": "bifurcation",
+      "angle": -0.9964914966201949,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [336, 226],
+      "type": "ending",
+      "angle": -0.5747758616989802,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [336, 388],
+      "type": "bifurcation",
+      "angle": 0.8732543196270827,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [336, 390],
+      "type": "ending",
+      "angle": 0.8825274612655569,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [336, 413],
+      "type": "ending",
+      "angle": 0.9757267030893555,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [336, 465],
+      "type": "border",
+      "angle": 1.120422274478265,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [337, 189],
+      "type": "bifurcation",
+      "angle": -0.8127137719622103,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [337, 337],
+      "type": "bifurcation",
+      "angle": 0.5453617994034334,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [337, 347],
+      "type": "bifurcation",
+      "angle": 0.6234308114114129,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [337, 411],
+      "type": "bifurcation",
+      "angle": 0.9632232684058742,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [338, 35],
+      "type": "border",
+      "angle": -1.222672991514212,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [338, 128],
+      "type": "ending",
+      "angle": -1.0447299077981331,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [338, 177],
+      "type": "ending",
+      "angle": -0.8668502077033193,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [338, 178],
+      "type": "bifurcation",
+      "angle": -0.8621700546672264,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [338, 339],
+      "type": "ending",
+      "angle": 0.5565993180102227,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [338, 465],
+      "type": "border",
+      "angle": 1.1115539756409014,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [339, 457],
+      "type": "ending",
+      "angle": 1.0889274999968366,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [340, 126],
+      "type": "ending",
+      "angle": -1.040744032846302,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [340, 426],
+      "type": "bifurcation",
+      "angle": 0.9991054900855173,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [340, 427],
+      "type": "ending",
+      "angle": 1.0022717790638567,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [340, 440],
+      "type": "ending",
+      "angle": 1.040744032846302,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [341, 168],
+      "type": "bifurcation",
+      "angle": -0.8907756025863908,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [341, 222],
+      "type": "bifurcation",
+      "angle": -0.5805214463603399,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [343, 141],
+      "type": "bifurcation",
+      "angle": -0.9811703480500062,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [343, 179],
+      "type": "bifurcation",
+      "angle": -0.8305934966182776,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [343, 437],
+      "type": "bifurcation",
+      "angle": 1.0180551752510576,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [344, 143],
+      "type": "bifurcation",
+      "angle": -0.9697225722971473,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [344, 206],
+      "type": "bifurcation",
+      "angle": -0.6760099770753083,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [344, 208],
+      "type": "ending",
+      "angle": -0.6632029927060933,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [344, 236],
+      "type": "ending",
+      "angle": -0.45527960348851365,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [344, 360],
+      "type": "ending",
+      "angle": 0.6760099770753083,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [344, 434],
+      "type": "bifurcation",
+      "angle": 1.0044957419069487,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [344, 435],
+      "type": "bifurcation",
+      "angle": 1.0074800653029286,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [345, 409],
+      "type": "bifurcation",
+      "angle": 0.9147172649893296,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [346, 160],
+      "type": "ending",
+      "angle": -0.8980414792786772,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [346, 178],
+      "type": "ending",
+      "angle": -0.8198672643969563,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [346, 184],
+      "type": "ending",
+      "angle": -0.7904742619307468,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [346, 411],
+      "type": "ending",
+      "angle": 0.9173699856141346,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [346, 438],
+      "type": "bifurcation",
+      "angle": 1.0069947462437252,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [346, 459],
+      "type": "ending",
+      "angle": 1.0627335025471796,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [346, 465],
+      "type": "border",
+      "angle": 1.0768549578753155,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [347, 35],
+      "type": "border",
+      "angle": -1.190985359862505,
+      "ridge_count": 36
+    },
+    {
+      "coordinates": [347, 55],
+      "type": "ending",
+      "angle": -1.1611502181700588,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [348, 137],
+      "type": "ending",
+      "angle": -0.970255195415889,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [348, 235],
+      "type": "bifurcation",
+      "angle": -0.4475199751571699,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [348, 281],
+      "type": "ending",
+      "angle": -0.01999733397315053,
+      "ridge_count": 13
+    },
+    {
+      "coordinates": [349, 84],
+      "type": "bifurcation",
+      "angle": -1.1011367661781573,
+      "ridge_count": 37
+    },
+    {
+      "coordinates": [349, 183],
+      "type": "bifurcation",
+      "angle": -0.7804230800665942,
+      "ridge_count": 16
+    },
+    {
+      "coordinates": [351, 69],
+      "type": "bifurcation",
+      "angle": -1.1222134914245323,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [351, 154],
+      "type": "bifurcation",
+      "angle": -0.8970014580828372,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [352, 74],
+      "type": "ending",
+      "angle": -1.1090644242628438,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [352, 98],
+      "type": "ending",
+      "angle": -1.0586635399898159,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [352, 298],
+      "type": "bifurcation",
+      "angle": 0.14324294881168684,
+      "ridge_count": 13
+    },
+    {
+      "coordinates": [353, 284],
+      "type": "ending",
+      "angle": 0.009523521593612855,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [353, 413],
+      "type": "bifurcation",
+      "angle": 0.8913825213870482,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [354, 92],
+      "type": "ending",
+      "angle": -1.064142464436396,
+      "ridge_count": 36
+    },
+    {
+      "coordinates": [354, 290],
+      "type": "ending",
+      "angle": 0.06594198978127024,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [354, 415],
+      "type": "ending",
+      "angle": 0.8942103682146934,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [354, 430],
+      "type": "bifurcation",
+      "angle": 0.94605681325651,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [355, 287],
+      "type": "bifurcation",
+      "angle": 0.03736577780278333,
+      "ridge_count": 12
+    },
+    {
+      "coordinates": [355, 464],
+      "type": "border",
+      "angle": 1.0369020193937788,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [356, 73],
+      "type": "ending",
+      "angle": -1.0957855705297999,
+      "ridge_count": 41
+    },
+    {
+      "coordinates": [356, 158],
+      "type": "bifurcation",
+      "angle": -0.8582304821396463,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [358, 43],
+      "type": "ending",
+      "angle": -1.1410340476982082,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [358, 63],
+      "type": "ending",
+      "angle": -1.1071487177940904,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [359, 35],
+      "type": "border",
+      "angle": -1.1499561586379772,
+      "ridge_count": 34
+    },
+    {
+      "coordinates": [361, 135],
+      "type": "ending",
+      "angle": -0.9187025186384781,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [361, 283],
+      "type": "bifurcation",
+      "angle": 0.0,
+      "ridge_count": 13
+    },
+    {
+      "coordinates": [361, 464],
+      "type": "border",
+      "angle": 1.0126937823990438,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [363, 129],
+      "type": "bifurcation",
+      "angle": -0.9293763804495911,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [363, 389],
+      "type": "bifurcation",
+      "angle": 0.744696671918646,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [364, 145],
+      "type": "ending",
+      "angle": -0.8717967127558954,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [364, 170],
+      "type": "bifurcation",
+      "angle": -0.7722984760776712,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [364, 268],
+      "type": "ending",
+      "angle": -0.12859675065490359,
+      "ridge_count": 14
+    },
+    {
+      "coordinates": [364, 391],
+      "type": "ending",
+      "angle": 0.7496990507181244,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [365, 281],
+      "type": "bifurcation",
+      "angle": -0.01709235239771683,
+      "ridge_count": 15
+    },
+    {
+      "coordinates": [366, 128],
+      "type": "ending",
+      "angle": -0.9201084834175338,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [366, 146],
+      "type": "ending",
+      "angle": -0.859770539176466,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [367, 388],
+      "type": "bifurcation",
+      "angle": 0.722979353401491,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [368, 102],
+      "type": "bifurcation",
+      "angle": -0.985347996108706,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [368, 132],
+      "type": "ending",
+      "angle": -0.8992942396426643,
+      "ridge_count": 35
+    },
+    {
+      "coordinates": [368, 149],
+      "type": "ending",
+      "angle": -0.8404605587711186,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [368, 155],
+      "type": "ending",
+      "angle": -0.8176450458327023,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [368, 426],
+      "type": "bifurcation",
+      "angle": 0.8726287087605101,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [369, 35],
+      "type": "border",
+      "angle": -1.1168728845363436,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [369, 39],
+      "type": "bifurcation",
+      "angle": -1.1104327782373737,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [369, 47],
+      "type": "bifurcation",
+      "angle": -1.0970310192056363,
+      "ridge_count": 43
+    },
+    {
+      "coordinates": [369, 84],
+      "type": "bifurcation",
+      "angle": -1.0244858784700155,
+      "ridge_count": 39
+    },
+    {
+      "coordinates": [369, 146],
+      "type": "bifurcation",
+      "angle": -0.8473343479482524,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [369, 147],
+      "type": "bifurcation",
+      "angle": -0.8436977817652578,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [369, 375],
+      "type": "bifurcation",
+      "angle": 0.6500799612463009,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [369, 464],
+      "type": "border",
+      "angle": 0.9815198385860902,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [370, 102],
+      "type": "ending",
+      "angle": -0.9777111748904334,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [370, 126],
+      "type": "ending",
+      "angle": -0.9101942695168345,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [370, 145],
+      "type": "bifurcation",
+      "angle": -0.8468591192802143,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [370, 377],
+      "type": "ending",
+      "angle": 0.6564873917134568,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [371, 130],
+      "type": "ending",
+      "angle": -0.8936687542579044,
+      "ridge_count": 35
+    },
+    {
+      "coordinates": [371, 310],
+      "type": "ending",
+      "angle": 0.21608497229678642,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [371, 385],
+      "type": "bifurcation",
+      "angle": 0.6923344346730304,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [372, 84],
+      "type": "ending",
+      "angle": -1.0135532493177983,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [372, 124],
+      "type": "bifurcation",
+      "angle": -0.9084482435043671,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [372, 125],
+      "type": "ending",
+      "angle": -0.9053863734738035,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [372, 130],
+      "type": "bifurcation",
+      "angle": -0.8897112983911429,
+      "ridge_count": 34
+    },
+    {
+      "coordinates": [372, 146],
+      "type": "ending",
+      "angle": -0.835165464147515,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [372, 160],
+      "type": "ending",
+      "angle": -0.78134960252142,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [372, 387],
+      "type": "ending",
+      "angle": 0.697902822595057,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [373, 71],
+      "type": "bifurcation",
+      "angle": -1.0380421816144665,
+      "ridge_count": 39
+    },
+    {
+      "coordinates": [373, 250],
+      "type": "ending",
+      "angle": -0.25811111638316186,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [374, 130],
+      "type": "ending",
+      "angle": -0.8818719385800352,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [375, 315],
+      "type": "ending",
+      "angle": 0.24683051286183438,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [376, 70],
+      "type": "ending",
+      "angle": -1.029686695508964,
+      "ridge_count": 47
+    },
+    {
+      "coordinates": [376, 309],
+      "type": "ending",
+      "angle": 0.2003985538258785,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [377, 307],
+      "type": "bifurcation",
+      "angle": 0.18394345653717517,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [378, 267],
+      "type": "ending",
+      "angle": -0.12246105741734142,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [378, 314],
+      "type": "ending",
+      "angle": 0.23408980130562634,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [378, 461],
+      "type": "border",
+      "angle": 0.9399987088286491,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [379, 35],
+      "type": "border",
+      "angle": -1.0848238787775948,
+      "ridge_count": 40
+    },
+    {
+      "coordinates": [379, 311],
+      "type": "bifurcation",
+      "angle": 0.21057195683620386,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [380, 135],
+      "type": "ending",
+      "angle": -0.842478945803713,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [381, 93],
+      "type": "bifurcation",
+      "angle": -0.960070362405688,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [381, 163],
+      "type": "bifurcation",
+      "angle": -0.7340599144215445,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [381, 313],
+      "type": "bifurcation",
+      "angle": 0.2218511149259635,
+      "ridge_count": 18
+    },
+    {
+      "coordinates": [382, 71],
+      "type": "bifurcation",
+      "angle": -1.0071252037138496,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [382, 95],
+      "type": "ending",
+      "angle": -0.9515538898170608,
+      "ridge_count": 40
+    },
+    {
+      "coordinates": [382, 133],
+      "type": "bifurcation",
+      "angle": -0.8416766996862103,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [382, 313],
+      "type": "bifurcation",
+      "angle": 0.220248723390689,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [382, 317],
+      "type": "bifurcation",
+      "angle": 0.24848742065740273,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [383, 91],
+      "type": "bifurcation",
+      "angle": -0.9579761246296553,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [383, 129],
+      "type": "bifurcation",
+      "angle": -0.8510476319792746,
+      "ridge_count": 36
+    },
+    {
+      "coordinates": [383, 150],
+      "type": "bifurcation",
+      "angle": -0.7779356153621994,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [383, 270],
+      "type": "ending",
+      "angle": -0.09600029036948525,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [384, 74],
+      "type": "ending",
+      "angle": -0.9939167350292661,
+      "ridge_count": 38
+    },
+    {
+      "coordinates": [384, 93],
+      "type": "ending",
+      "angle": -0.949551816264836,
+      "ridge_count": 40
+    },
+    {
+      "coordinates": [384, 100],
+      "type": "ending",
+      "angle": -0.9316811547904044,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [384, 123],
+      "type": "bifurcation",
+      "angle": -0.866302262552679,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [384, 270],
+      "type": "bifurcation",
+      "angle": -0.09529868759184307,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [385, 89],
+      "type": "bifurcation",
+      "angle": -0.9559310276476498,
+      "ridge_count": 38
+    },
+    {
+      "coordinates": [385, 103],
+      "type": "bifurcation",
+      "angle": -0.9202219495814367,
+      "ridge_count": 36
+    },
+    {
+      "coordinates": [385, 129],
+      "type": "bifurcation",
+      "angle": -0.8437510852485899,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [385, 265],
+      "type": "bifurcation",
+      "angle": -0.13063857432403517,
+      "ridge_count": 17
+    },
+    {
+      "coordinates": [386, 91],
+      "type": "ending",
+      "angle": -0.9475969968608307,
+      "ridge_count": 37
+    },
+    {
+      "coordinates": [386, 99],
+      "type": "ending",
+      "angle": -0.9272952180016122,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [386, 131],
+      "type": "ending",
+      "angle": -0.8336365745753866,
+      "ridge_count": 34
+    },
+    {
+      "coordinates": [388, 35],
+      "type": "border",
+      "angle": -1.0568766457963628,
+      "ridge_count": 37
+    },
+    {
+      "coordinates": [389, 85],
+      "type": "bifurcation",
+      "angle": -0.9519815600572117,
+      "ridge_count": 45
+    },
+    {
+      "coordinates": [390, 83],
+      "type": "bifurcation",
+      "angle": -0.953390435043324,
+      "ridge_count": 46
+    },
+    {
+      "coordinates": [390, 89],
+      "type": "ending",
+      "angle": -0.9389419459370044,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [390, 453],
+      "type": "border",
+      "angle": 0.8749019817490586,
+      "ridge_count": 35
+    },
+    {
+      "coordinates": [391, 399],
+      "type": "bifurcation",
+      "angle": 0.681526249454459,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [392, 85],
+      "type": "ending",
+      "angle": -0.9420000403794636,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [392, 106],
+      "type": "bifurcation",
+      "angle": -0.8878420169045728,
+      "ridge_count": 39
+    },
+    {
+      "coordinates": [392, 177],
+      "type": "bifurcation",
+      "angle": -0.6345528017765085,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [392, 264],
+      "type": "ending",
+      "angle": -0.1311866559831561,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [392, 401],
+      "type": "ending",
+      "angle": 0.6864853686610555,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [392, 409],
+      "type": "ending",
+      "angle": 0.7188299996216245,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [393, 91],
+      "type": "ending",
+      "angle": -0.9239702094736986,
+      "ridge_count": 35
+    },
+    {
+      "coordinates": [394, 222],
+      "type": "bifurcation",
+      "angle": -0.39576340913572106,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [395, 108],
+      "type": "bifurcation",
+      "angle": -0.8721365020734334,
+      "ridge_count": 35
+    },
+    {
+      "coordinates": [396, 271],
+      "type": "ending",
+      "angle": -0.0809040991552306,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [397, 89],
+      "type": "ending",
+      "angle": -0.9158484571438041,
+      "ridge_count": 35
+    },
+    {
+      "coordinates": [397, 264],
+      "type": "ending",
+      "angle": -0.12683228097372218,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [398, 60],
+      "type": "ending",
+      "angle": -0.9786657797178309,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [398, 87],
+      "type": "bifurcation",
+      "angle": -0.9175710512593592,
+      "ridge_count": 38
+    },
+    {
+      "coordinates": [398, 106],
+      "type": "ending",
+      "angle": -0.8677800939891389,
+      "ridge_count": 34
+    },
+    {
+      "coordinates": [398, 264],
+      "type": "bifurcation",
+      "angle": -0.12599568216401255,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [398, 269],
+      "type": "bifurcation",
+      "angle": -0.09306372872441795,
+      "ridge_count": 19
+    },
+    {
+      "coordinates": [398, 319],
+      "type": "bifurcation",
+      "angle": 0.23554498072086333,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [398, 376],
+      "type": "bifurcation",
+      "angle": 0.5549957273385867,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [399, 320],
+      "type": "bifurcation",
+      "angle": 0.24029851009077122,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [399, 325],
+      "type": "ending",
+      "angle": 0.27128838037978636,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [400, 76],
+      "type": "bifurcation",
+      "angle": -0.9374194826644731,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [400, 102],
+      "type": "ending",
+      "angle": -0.872266086107955,
+      "ridge_count": 37
+    },
+    {
+      "coordinates": [400, 338],
+      "type": "bifurcation",
+      "angle": 0.3471853812341177,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [400, 451],
+      "type": "border",
+      "angle": 0.8353565591193911,
+      "ridge_count": 36
+    },
+    {
+      "coordinates": [401, 99],
+      "type": "bifurcation",
+      "angle": -0.8771281411474733,
+      "ridge_count": 38
+    },
+    {
+      "coordinates": [401, 331],
+      "type": "ending",
+      "angle": 0.3040009393401446,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [401, 338],
+      "type": "ending",
+      "angle": 0.34509261765182553,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [401, 403],
+      "type": "bifurcation",
+      "angle": 0.6651026864694942,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [402, 76],
+      "type": "ending",
+      "angle": -0.9311711675842993,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [402, 93],
+      "type": "bifurcation",
+      "angle": -0.8896697753251036,
+      "ridge_count": 39
+    },
+    {
+      "coordinates": [402, 101],
+      "type": "ending",
+      "angle": -0.8685393952858895,
+      "ridge_count": 37
+    },
+    {
+      "coordinates": [403, 176],
+      "type": "bifurcation",
+      "angle": -0.6042014810682069,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [403, 178],
+      "type": "bifurcation",
+      "angle": -0.5954098754787326,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [403, 413],
+      "type": "bifurcation",
+      "angle": 0.697902822595057,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [405, 61],
+      "type": "ending",
+      "angle": -0.9552496706135504,
+      "ridge_count": 43
+    },
+    {
+      "coordinates": [405, 65],
+      "type": "bifurcation",
+      "angle": -0.9466524424992498,
+      "ridge_count": 41
+    },
+    {
+      "coordinates": [405, 113],
+      "type": "bifurcation",
+      "angle": -0.8251325906330704,
+      "ridge_count": 36
+    },
+    {
+      "coordinates": [405, 202],
+      "type": "bifurcation",
+      "angle": -0.4763051608348581,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [405, 248],
+      "type": "bifurcation",
+      "angle": -0.21934325460518667,
+      "ridge_count": 20
+    },
+    {
+      "coordinates": [405, 415],
+      "type": "bifurcation",
+      "angle": 0.6991077864654277,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [406, 176],
+      "type": "ending",
+      "angle": -0.5952699174670502,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [406, 178],
+      "type": "ending",
+      "angle": -0.5865406162850954,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [409, 451],
+      "type": "border",
+      "angle": 0.8066715494215095,
+      "ridge_count": 37
+    },
+    {
+      "coordinates": [412, 90],
+      "type": "ending",
+      "angle": -0.8664526837308465,
+      "ridge_count": 36
+    },
+    {
+      "coordinates": [412, 160],
+      "type": "border",
+      "angle": -0.6435011087932844,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [412, 176],
+      "type": "border",
+      "angle": -0.5780879142708696,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [412, 200],
+      "type": "border",
+      "angle": -0.46851375064010564,
+      "ridge_count": 25
+    },
+    {
+      "coordinates": [412, 224],
+      "type": "border",
+      "angle": -0.34533964450214893,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [413, 149],
+      "type": "border",
+      "angle": -0.6820883485802157,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [414, 43],
+      "type": "border",
+      "angle": -0.9656851265351237,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [414, 253],
+      "type": "ending",
+      "angle": -0.1787930548029214,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [414, 345],
+      "type": "bifurcation",
+      "angle": 0.35744966707596615,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [416, 113],
+      "type": "border",
+      "angle": -0.7913152541034756,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [416, 344],
+      "type": "ending",
+      "angle": 0.3482929921480394,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [416, 428],
+      "type": "ending",
+      "angle": 0.7120475686514641,
+      "ridge_count": 31
+    },
+    {
+      "coordinates": [418, 239],
+      "type": "border",
+      "angle": -0.25326576623075286,
+      "ridge_count": 24
+    },
+    {
+      "coordinates": [419, 444],
+      "type": "border",
+      "angle": 0.7552867853843658,
+      "ridge_count": 37
+    },
+    {
+      "coordinates": [422, 399],
+      "type": "bifurcation",
+      "angle": 0.5880026035475675,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [423, 43],
+      "type": "border",
+      "angle": -0.9407624172489815,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [424, 82],
+      "type": "ending",
+      "angle": -0.8516142145117678,
+      "ridge_count": 44
+    },
+    {
+      "coordinates": [425, 246],
+      "type": "border",
+      "angle": -0.20607213169868224,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [426, 113],
+      "type": "border",
+      "angle": -0.7624137059559962,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [427, 82],
+      "type": "bifurcation",
+      "angle": -0.8432283461430412,
+      "ridge_count": 39
+    },
+    {
+      "coordinates": [429, 297],
+      "type": "bifurcation",
+      "angle": 0.07719436695228955,
+      "ridge_count": 22
+    },
+    {
+      "coordinates": [429, 299],
+      "type": "bifurcation",
+      "angle": 0.08816861183656599,
+      "ridge_count": 21
+    },
+    {
+      "coordinates": [431, 420],
+      "type": "border",
+      "angle": 0.6426262183778377,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [431, 432],
+      "type": "border",
+      "angle": 0.6833443037420767,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [432, 296],
+      "type": "ending",
+      "angle": 0.07053496590457822,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [432, 300],
+      "type": "ending",
+      "angle": 0.09212975385409725,
+      "ridge_count": 23
+    },
+    {
+      "coordinates": [433, 367],
+      "type": "ending",
+      "angle": 0.4262201611738441,
+      "ridge_count": 26
+    },
+    {
+      "coordinates": [433, 408],
+      "type": "border",
+      "angle": 0.5942137038004339,
+      "ridge_count": 32
+    },
+    {
+      "coordinates": [434, 390],
+      "type": "ending",
+      "angle": 0.5220362796096631,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [434, 394],
+      "type": "border",
+      "angle": 0.5380442078256248,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [435, 51],
+      "type": "border",
+      "angle": -0.8923866379287859,
+      "ridge_count": 42
+    },
+    {
+      "coordinates": [435, 110],
+      "type": "border",
+      "angle": -0.7465288612195266,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [437, 331],
+      "type": "bifurcation",
+      "angle": 0.24870998909352288,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [439, 309],
+      "type": "bifurcation",
+      "angle": 0.1352940691299392,
+      "ridge_count": 27
+    },
+    {
+      "coordinates": [439, 331],
+      "type": "bifurcation",
+      "angle": 0.24621018959785856,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [439, 355],
+      "type": "bifurcation",
+      "angle": 0.36049085206012155,
+      "ridge_count": 29
+    },
+    {
+      "coordinates": [440, 379],
+      "type": "border",
+      "angle": 0.4636476090008061,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [443, 110],
+      "type": "border",
+      "angle": -0.7256866225910589,
+      "ridge_count": 30
+    },
+    {
+      "coordinates": [444, 102],
+      "type": "border",
+      "angle": -0.7456313406777679,
+      "ridge_count": 33
+    },
+    {
+      "coordinates": [446, 339],
+      "type": "border",
+      "angle": 0.275629438382131,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [447, 349],
+      "type": "border",
+      "angle": 0.32024225991446653,
+      "ridge_count": 28
+    },
+    {
+      "coordinates": [448, 56],
+      "type": "border",
+      "angle": -0.8485459425017801,
+      "ridge_count": 44
+    },
+    {
+      "coordinates": [450, 109],
+      "type": "border",
+      "angle": -0.711067276229783,
+      "ridge_count": 36
+    },
+    {
+      "coordinates": [290, 203],
+      "type": "bifurcation",
+      "angle": -1.0873493252276976,
+      "ridge_count": 19
+    }
+  ]
+}
