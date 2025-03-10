@@ -5,7 +5,7 @@ import os
 
 def main():
     # Flag per mostrare o meno i nodi/archi "added"
-    SHOW_ADDED = False
+    SHOW_ADDED = True
 
     # Percorso della cartella contenente le impronte
     folder_path = "/Users/riccardotortorelli/Desktop/Tesi/Archivio"
@@ -15,8 +15,9 @@ def main():
         print("Errore: La cartella specificata non esiste.")
         return
 
-    # Lista le impronte disponibili nella cartella
-    impronte_disponibili = [d for d in os.listdir(folder_path) if os.path.isdir(os.path.join(folder_path, d))]
+    # Lista le impronte disponibili nella carte lla
+    impronte_disponibili = sorted([d for d in os.listdir(folder_path)
+                               if os.path.isdir(os.path.join(folder_path, d))])
 
     # Se non ci sono impronte disponibili, esci
     if not impronte_disponibili:
